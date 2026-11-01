@@ -503,7 +503,7 @@ This is an MVP intended for local demonstration and further development.
 
 ## Author
 
-**Your Name**
+**Piyush Tripathi**
 
 GitHub: https://github.com/piyush1480
 
